@@ -5,34 +5,23 @@ At “Sketchy Camera” we recognize that privacy is significant. Please take a 
 
 We only use your device camera, gallery and storage to pick and save a photo. Image pick also done with your permission only. If you want to edit a photo than pick a image by camera or gallery and save this to internal/external storage.
 
-### Markdown
+### 1.	Personal information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Personal information is data that can be used to uniquely identify or contact a single person.
+We do not collect, store or use any personal information while you visit, download or upgrade our products.
+Only for the following purposes that we may use personal information submitted by you: help us develop, deliver, and improve our products and services and supply higher quality service; manage online surveys and other activities you’ve participated in.
 
-```markdown
-Syntax highlighted code block
+In the following circumstances, we may disclose your personal information according to your wish or regulations by law:
 
-# Header 1
-## Header 2
-### Header 3
+(1) Your prior permission
+(2) By the applicable law within or outside your country of residence, legal process, litigation requests
+(3) By requests from public and governmental authorities
+(4) To protect our legal rights and interests.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 2.	Non-Personal information
 
-**Bold** and _Italic_ and `Code` text
+Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, your phone IMEI number, phone model, phone operator, location, install, uninstall, frequency of use, etc.
+We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as the data of install, frequency of use, country, equipment and channel. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hexagon17/hexagone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
