@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sketchy Camera Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/hexagon17/hexagone.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
