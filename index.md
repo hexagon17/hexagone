@@ -1,8 +1,9 @@
 ## Sketchy Camera Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/hexagon17/hexagone.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy explains what information about you is collected, how this is done, what is it used for.
+At “Sketchy Camera” we recognize that privacy is significant. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We only use your device camera, gallery and storage to pick and save a photo. Image pick also done with your permission only. If you want to edit a photo than pick a image by camera or gallery and save this to internal/external storage.
 
 ### Markdown
 
