@@ -25,3 +25,13 @@ Non-personal information is data in a form that does not permit direct associati
 We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as the data of install, frequency of use, country, equipment and channel. 
 
 If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+
+### 3.	Security
+
+Sketchy Camera is very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+
+
+### 4.	Contacting us / Reporting Violations
+
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please contact us at hexagonestudio@gmail.com.
