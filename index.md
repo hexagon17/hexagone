@@ -34,4 +34,9 @@ Sketchy Camera is very concerned about safeguarding the confidentiality of your 
 
 ### 4.	Contacting us / Reporting Violations
 
-If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please contact us at hexagonestudio@gmail.com.
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, please contact us at hexagonestudio@gmail.com.
+
+
+### 5.	Changes to this Privacy Policy
+Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances.
+If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of all Applications. Your continued use of any Application following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. 
